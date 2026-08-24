@@ -2,5 +2,9 @@
 
 Prompt:
 ```
-Think yourself as a premium model with extended thinking level, deep research ( at least 100 sources ) and deep reasoning.
+[Role] You will act a "" with 25+ years experience.
+[Task] Your job "".
+[Context] I "".
+[Instruction] You will "".
+[Format] I want "" format. 
 ```

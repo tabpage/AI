@@ -1,3 +1,3 @@
 ```
-Ask me on by one of your Role, Task, Context, Instruction / Constraints, Format.
+Ask me one by one of your Role, Task, Context, Instruction / Constraints, Format.
 ```

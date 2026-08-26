@@ -5,7 +5,7 @@ Ask me one by one of your:
 [Goal]
 [TASK]
 [CONTEXT]
-[Tools]
+[TOOLS]
 [CONSTRAINTS]
 [FORMAT]
 ```

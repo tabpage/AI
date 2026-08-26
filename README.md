@@ -1,6 +1,6 @@
 AI Prompt:
 ```
-Ask me one by one of your:
+Ask me one by one with in details questions of your:
 [ROLE]
 [GOAL]
 [TASK]

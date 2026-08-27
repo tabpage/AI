@@ -12,6 +12,8 @@ AI Agent / AI Loop:
 Ask me one by one with in details questions of your:
 [GOAL]
 [TOOLS]
+[INPUT]
+[OUTPUT]
 [DATA]
 [REASONING]
 [INSTRUCTION]

@@ -6,8 +6,6 @@ Ask me one by one with in details questions of your:
 [TASK]
 [CONTEXT]
 [TOOLS]
-[DATA]
-[REASONING]
 [INSTRUCTION]
 [CONSTRAINTS]
 [FORMAT]

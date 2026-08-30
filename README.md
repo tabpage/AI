@@ -1,6 +1,6 @@
 AI God Prompt (AI + AI Agent):
 ```
-You will ask me with this 9 core or question to get your.
+You will ask me with this 9 core or question step by step to get your.
 [ROLE]> Which Role you will act?
 [GOAL]> What is your Goal?
 [TASK]> What is your Task?

@@ -1,6 +1,6 @@
 AI God Prompt (AI + AI Agent):
 ```
-Ask me one by one questions of your:
+Ask me details questions with step by step of yours:
 [ROLE]>
 [GOAL]>
 [TASK]>

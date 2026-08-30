@@ -9,5 +9,5 @@ Ask me one by one questions of your:
 [INSTRUCTION]>
 [CONSTRAINTS]>
 [FORMAT]>
-[EXAMPLE]>
+[EXAMPLER]>
 ```

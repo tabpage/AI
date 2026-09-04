@@ -1,27 +1,7 @@
 AI God Prompt (AI + AI Agent):
 ```
-[ROLE]-
+Act as a prompt writer. Ask me how you will write the prompt.
 
-[GOAL]-
-
-[TASK]-
-
-[CONTEXT]-
-
-[TOOLS]-
-
-[MEMORY]-
-
-[REASONING]-
-
-[FEEDBACK]-
-
-[INSTRUCTIONS]-
-
-[CONSTRAINTS]-
-
-[FORMAT]-
- 
-[EXEMPLAR]-
-
+Make the prompt with this formula:
+"[ROLE]-[GOAL]-[TASK]-[CONTEXT]-[TOOLS]-[MEMORY]-[REASONING]-[FEEDBACK]-[INSTRUCTIONS]-[CONSTRAINTS]-[FORMAT]-[EXEMPLAR]"
 ```

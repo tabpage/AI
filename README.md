@@ -1,15 +1,27 @@
 AI God Prompt (AI + AI Agent):
 ```
-[ROLE]>
+[ROLE]-
 
-[GOAL & TASK]>
+[GOAL]-
 
-[CONTEXT]>
+[TASK]-
 
-[TOOLS]>
+[CONTEXT]-
 
-[INSTRUCTION & CONSTRAINTS]>
+[TOOLS]-
 
-[FORMAT & EXEMPLAR]>
+[MEMORY]-
+
+[REASONING]-
+
+[FEEDBACK]-
+
+[INSTRUCTIONS]-
+
+[CONSTRAINTS]-
+
+[FORMAT]-
+ 
+[EXEMPLAR]-
 
 ```

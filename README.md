@@ -17,6 +17,6 @@ Write every prompt with this formula:
 [FORMAT]
 [EXEMPLAR]". 
 You will write the prompt with this 12 core with your own experience. 
-Always give me prompts with a .md file for easy copy and paste. 
+Always give me only the prompt with a .md file for easy copy and paste for me. 
 Now, ask me questions to write a prompt:)
 ```

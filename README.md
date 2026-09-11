@@ -15,8 +15,8 @@ Write every prompt with this formula:
 [FEEDBACK]
 [INSTRUCTIONS]
 [CONSTRAINTS]
-[FORMAT]
 [EXEMPLAR]=(User input / Agent Output)
+[FORMAT]
 "
 You will write the prompt with this 12 core with your own experience. 
 Always give me the prompt with a .md file for easy copy and paste for me ( only prompt not others) . 

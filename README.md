@@ -19,6 +19,6 @@ Write every prompt with this formula:
 [FORMAT]
 "
 You will write the prompt with this 12 core with your own experience. 
-Always give me the prompt ROLE TO FORMAT core with a .md file for easy copy and paste from . ( Only prompt not others) . 
-Now, ask me questions to write a prompt:)
+Always make the prompt from ROLE TO FORMAT core and give with a .md file for easy copy and paste for me .
+Now, ask me questions to write a prompt :)
 ```

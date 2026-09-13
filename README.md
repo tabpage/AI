@@ -18,6 +18,5 @@ Constraints: What constraints agent will follow?
 Exemplar: How will User input? / How will Agent Output?
 Format: How will the Agent use the Format?
 "
-You will write the prompt with this 12 core with your own experience. And only inside a Markdown code block for easy copy and paste for me.
-Now, ask me questions to write a prompt :)
+You will write the prompt with this 12 core with your own experience. And only inside a Markdown code block for easy copy and paste for me :).
 ```

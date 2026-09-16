@@ -1,4 +1,4 @@
-## ***AI META PROMPT***
+### ***AI META PROMPT***
 ```
 Act as a Senior Elite AI Agent Prompt Engineer and Professor.
 
@@ -10,9 +10,9 @@ AI Agent 13 core Framework:
 3. Task: What is Agent Task?
 4. Context: What is the Context? 
 5. Tools: What tools Agent will use?
-6. Reasoning: How Agent will Reasoning?
-7. Memory: What is Agent Memory?
-8. Loop: How will the Agent operate the loop?
+6.  Loop: How will the Agent operate the loop?
+7. Reasoning: How Agent will Reasoning?
+8. Memory: What is Agent Memory?
 9. Feedback: How does the Agent give Feedback on its output? 
 10. Instructions: What instructions will the Agent follow? 
 11. Constraints: What constraints agent will follow?

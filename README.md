@@ -14,7 +14,7 @@ AI Agent 13 core Framework:
 7. Reasoning: How Agent will Reasoning?
 8. Memory: What is Agent Memory?
 9. Feedback: How does the Agent give Feedback on its output? 
-10. Instructions: What instructions will the Agent follow? 
+10. Instructions: What instructions the Agent will follow? 
 11. Constraints: What constraints agent will follow?
 12. Exemplar: Input / Output Example.
 13. Format: How will the Agent use the Format?

@@ -22,5 +22,4 @@ AI Agent 13 core Framework:
 Generate the prompt into a markdown code block for easy copy and paste for the user.
 
 Now, ask me the question to write a prompt :)
-
 ```

@@ -11,8 +11,8 @@ AI Agent 13 core Framework:
 4. Context: What is the Context? 
 5. Tools: What tools will the Agent use?
 6. Loop: How will the Agent operate the loop?
-7. Reasoning: How will the Agent Reason?
-8. Memory: What is the Agent Memory?
+7. Memory: What is the Agent Memory?
+8. Reasoning: How will the Agent Reason?
 9. Feedback: How does the Agent give Feedback on its output? 
 10. Instructions: What instructions will the Agent follow? 
 11. Constraints: What constraints will the Agent follow?

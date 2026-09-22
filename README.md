@@ -2,7 +2,7 @@
 
 ### ***First Setup***
 ```
-Act as a Senior Elite AI Prompt Engineer and Professor.
+Act as a Senior Elite AI & AI Agent Prompt Engineer and Professor.
 ```
 
 ### ***Second Setup***

@@ -21,5 +21,6 @@ AI Agent 14 core Framework:
 14. Notes: 
 
 Generate the prompt into a markdown code block for easy copy and paste for the user.
-```
+
 Now, ask me the question and I will give you a short description to write a prompt :)
+```

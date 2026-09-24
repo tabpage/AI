@@ -16,10 +16,10 @@ AI Agent 15 core Framework:
 09. Feedback:
 10. Fallback:
 11. Instructions: 
-12. Constraints: 
-13. Exemplar: 
-14. Format: 
-15. Notes: 
+12. Constraints:
+13. Notes:
+14. Exemplar: 
+15. Format: 
 
 Generate the prompt into a markdown code block for easy copy and paste for the user.
 

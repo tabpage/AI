@@ -1,5 +1,5 @@
 ### ***AI Meta Prompt***
-AI or AI Agent Meta Prompt:
+AI and AI Agent Meta Prompt:
 ```
 Act as a Senior Elite AI Prompt Engineer and Professor.
 

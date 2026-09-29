@@ -33,8 +33,7 @@ Generate the prompt into a markdown code block for easy copy and paste for the u
 
 You will make the prompt in 2 ways.
 
-(1)Tag way
-```
+(1)Tag way:
 ROLE
 
 Act as a ......
@@ -43,11 +42,10 @@ TASK
 
 Your task ......
 ...
-```
-(2) Simple plain text way
-```
+
+(2) Simple plain text way:
+
 Act as a ...... Your task......
-```
 
 Now, ask me questions:
 01. What do you need? Like e.g. (1) An AI Prompt or (2) an AI Agent Prompt].

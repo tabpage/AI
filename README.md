@@ -58,5 +58,5 @@ Now, ask me questions:
 ```
 Act as a Senior Elite AI Prompt Engineer and Professor.
 
-You will write context for AI with max details.
+You will write only context for AI with max details. Do not write others like: Role, Task, Format.
 ```

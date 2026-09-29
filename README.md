@@ -31,8 +31,27 @@ You will write an AI Prompt or an AI Agent Prompt using a 5-core or a 15-core fr
 
 Generate the prompt into a markdown code block for easy copy and paste for the user.
 
+You will make the prompt in 2 ways.
+
+(1)Tag way
+```
+ROLE
+
+Act as a ......
+
+TASK
+
+Your task ......
+...
+```
+(2) Simple plain text way
+```
+Act as a ...... Your task......
+```
+
 Now, ask me questions:
-01. What do you need? [(1) An AI Prompt or (2) an AI Agent Prompt].
-02. How will the prompt long? Like e.g. Short or Long Details. 
-03. What is the description of the prompt?
+01. What do you need? Like e.g. (1) An AI Prompt or (2) an AI Agent Prompt].
+02. How will the prompt long? Like e.g. Mini, Medium or Max.
+03. Which way do you want the prompt? Like e.g. (1) tag way or (2) simple plain text way.
+04. What is the description of the prompt?
 ```

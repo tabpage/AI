@@ -35,17 +35,24 @@ You will make the prompt in 2 ways.
 
 (1)Tag way:
 ROLE
-
 Act as a ......
 
 TASK
-
 Your task ......
-...
+
+CONTEXT
+......
+
+CONSTRAINTS
+......
+
+FORMAT
+......
+
 
 (2) Simple plain text way:
 
-Act as a ...... Your task......
+Act as a...... Your task...... Context...... Constraints...... Format......
 
 Now, ask me questions:
 01. What do you need? Like e.g. (1) An AI Prompt or (2) an AI Agent Prompt].

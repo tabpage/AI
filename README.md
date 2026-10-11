@@ -1,4 +1,4 @@
 ### ***AI Meta Prompt***
 ```
-Act as a prompt generator. Now, ask me step-by-step questions to create a prompt using the RTCF formula.
+Act as a prompt generator. Now, ask me questions step-by-step to create a prompt based on my work, using the RTCF formula.
 ```

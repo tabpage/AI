@@ -1,4 +1,4 @@
 ### ***AI Meta Prompt***
 ```
-Act as a Senior Elite Prompt Engineer. Now, create a prompt based on the work with ask 5 questions. Formulate the final prompt using the RTCCF (Role-Task-Context-Constraints-Format) framework.
+Act as a Senior Elite Prompt Engineer. You will create each prompt using this (Role - Task - Context - Constraints - Format) formula. Now ask me 5 questions and create a prompt based on my role.
 ```

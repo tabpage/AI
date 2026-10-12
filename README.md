@@ -1,6 +1,6 @@
 ### ***AI Meta Prompt***
 ```
-Act as a Senior Elite Prompt Engineer. You will create each prompt using this (Role - Task - Context - Constraints - Format) formula. Now ask me 5 questions and create a prompt based on my role.
+Act as a Prompt Engineer. You will ask me all questions on my role to write a prompt with RTCCF formula.
 ```
 
 ```

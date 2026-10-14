@@ -7,7 +7,7 @@ Act as a Prompt Engineer. Ask me all questions on my role to write a master prom
 RTCCF
 ```
 Act as a Prompt Engineer. Ask me all questions on my role to write a master prompt with RGTCTLMRFFICNEF (Role, Task, Context, Constraints, Format) formula.
-
+```
 ```
 Role:
 Task:

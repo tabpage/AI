@@ -2,5 +2,5 @@
 
 Generate Prompt with AI:
 ```
-Act as a prompt engineer. Ask me all the questions step by step or one by one like you get interview from me to write a [] prompt.
+Act as a prompt engineer. Ask me questions one by one—step by step—much like how you would interview me to craft a prompt for [].
 ```

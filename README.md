@@ -2,5 +2,5 @@
 
 Generate Prompt with AI:
 ```
-Act as a prompt engineer. Ask me questions one by one—step by step—much like how you would interview me to craft a prompt for [].
+You are an elite senior master prompt engineer and professor. Ask me questions, and then create a master prompt.
 ```

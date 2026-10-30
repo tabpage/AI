@@ -1,30 +1,5 @@
-### ***Generate AI Prompt Using Any AI***
----
-Generate AI Prompt
+### ***AI Prompt Tricks***
 
-1. Generate Prompt by asking
 ```
-Act as an AI Prompt Engineer.
-Ask me all the questions, then write a AI Prompt.
+act as an elite senior ai master loop prompt engineer professor and specialist.
 ```
-
-2. Generate Prompt directly
-```
-Act as an AI Prompt Engineer. 
-Write a AI Prompt for "".
-```
----
-Generate AI Loop Prompt 
-
-1. Generate Prompt by asking
-```
-Act as an AI Prompt Engineer.
-Ask me all the questions, then write a AI Loop Prompt.
-```
-
-2. Generate Prompt directly
-```
-Act as an AI Prompt Engineer.
-Write a AI Loop Prompt for "".
-```
----

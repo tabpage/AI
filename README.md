@@ -1,12 +1,4 @@
-### ***AI Prompt Tricks***
----
+###***AI Prompt***
 ```
-act as an expert ai master loop prompt engineer.
+Ask me 6 questions for your prompt
 ```
-```
-write an expert ai master loop prompt for
-```
-```
-ask me all questions then write the final prompt
-```
----
